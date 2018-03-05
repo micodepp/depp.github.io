@@ -1,0 +1,6 @@
+include /opt/ids_nginx_config/vhosts_conf/app_upstream/*.conf;
+
+include /opt/ids_nginx_config/vhosts_conf/app_location/*.conf;
+
+
+
